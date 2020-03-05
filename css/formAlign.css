@@ -1,0 +1,11 @@
+.formulaire {
+  width: 50%;
+  clear: both;
+  margin-left:25%;
+  margin-top:5%;
+}
+
+.formulaire input {
+  width: 50%;
+  clear: both;
+}
